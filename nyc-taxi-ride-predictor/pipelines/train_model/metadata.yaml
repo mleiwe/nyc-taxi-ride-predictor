@@ -1,0 +1,7 @@
+created_at: '2024-06-24 13:55:54.624516+00:00'
+description: This is designed to train the model
+name: train_model
+tags:
+- model_train
+type: python
+uuid: train_model

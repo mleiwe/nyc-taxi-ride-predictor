@@ -1,0 +1,2 @@
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "process_data"}, "timestamp": 1719219314, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "train_model"}, "timestamp": 1719237356, "user": null}

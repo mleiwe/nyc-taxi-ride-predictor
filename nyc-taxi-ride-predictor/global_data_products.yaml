@@ -1,0 +1,9 @@
+train_test_data:
+  object_type: pipeline
+  object_uuid: process_data
+  outdated_after:
+    seconds: 600
+  repo_path: /home/src/nyc-taxi-ride-predictor
+  settings:
+    taxi_train_test_split:
+      partitions: 1
